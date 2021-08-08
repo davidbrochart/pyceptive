@@ -1,0 +1,5 @@
+name: pyceptive-dev
+channels:
+    - conda-forge
+dependencies:
+    - pip
